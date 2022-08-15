@@ -1,0 +1,20 @@
+{
+  "name": "curso-de-asincronismo-con-javascript",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardoDev25/Platzi_Curso_de_Asincronismo_con_JavaScript.git"
+  },
+  "keywords": [],
+  "author": "Gerardo Miranda <gerardodev25@gmail.com> (https://github.com/GerardoDev25)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerardoDev25/Platzi_Curso_de_Asincronismo_con_JavaScript/issues"
+  },
+  "homepage": "https://github.com/GerardoDev25/Platzi_Curso_de_Asincronismo_con_JavaScript#readme"
+}
